@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Tecnologies like C++,JAVA, PYTHON,C#,ML,TYPE SCRIPT,HTML,CSS,MYSQL.
-- 📫 How to reach me EMAIL ME VIA nakulreddy4884@gmail.com
+- 📫 reach me VIA nakulreddy4884@gmail.com
 
 <!---
 nakul84/nakul84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
