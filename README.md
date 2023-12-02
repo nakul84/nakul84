@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nakul84
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#,.NET
 - 💞️ I’m looking to collaborate on Technologies like C++,JAVA, PYTHON,C#,ML,TYPE SCRIPT,HTML,CSS,MYSQL,AWS,REACT,ANGULAR,JAVA SCRIPT.
 - 📫 reach me VIA nakulreddy4884@gmail.com
 
